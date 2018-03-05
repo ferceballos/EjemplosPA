@@ -1,0 +1,21 @@
+
+.cont {
+    width: 80%;
+    margin-left: 10;
+}
+
+
+.title {
+    font-weight: lighter
+}
+
+.noSpace {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.imgCard {
+    width: 100%;
+}
+
+.card-image img {}
